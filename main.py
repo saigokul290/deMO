@@ -1,1 +1,1 @@
-pritn("saigokul")
+print("saigokul")
